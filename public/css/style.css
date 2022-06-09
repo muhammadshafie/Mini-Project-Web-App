@@ -1,0 +1,49 @@
+.color{
+    color: red;
+    font-size: medium;
+    font-weight: bold;
+    background-color: #ff6347;
+}
+
+body {
+    background-color: burlywood;
+    background-image: url("/images/rog.gif");
+    background-size: cover;
+}
+
+p {
+    font-weight: bold !important;
+}
+
+#footer {
+    min-width: 100%; 
+    background: white;
+    text-align: center;
+    display: block;
+}
+
+#footer p {
+    /* text-align: center; */
+    width: 100%;
+}
+
+/* unvisited link */ 
+a:link { 
+    text-decoration: none; 
+    color: red; 
+}
+
+/* visited link */ a:visited {
+    text-decoration: none; 
+    color: green; 
+}
+
+/* mouse over link */ a:hover { 
+    color: hotpink; 
+    text-decoration: underline; 
+}
+
+/* selected link */ a:active { 
+    text-decoration: none; 
+    color: blue; 
+}
