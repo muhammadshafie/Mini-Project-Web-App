@@ -1,6 +1,6 @@
 # Web App Development
 
-This is a Complete Mini Project that adapts CRUD, including four basic functions developed using Laravel, PHP, HTML, CSS, JS, and Bootstrap. This project is also using XAMPP and connected to your local database (MYSQL) before this project can be used.
+This is a Complete Mini Project that customizes CRUD, including four basic functions developed using Laravel, PHP, HTML, CSS, JS, and Bootstrap. This project also uses XAMPP and requires a connection to your local database (MYSQL) before this project can be used.
 
 ## Installation
 
