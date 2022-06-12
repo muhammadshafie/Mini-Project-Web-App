@@ -12,6 +12,8 @@ git clone [url]
 
 ## Usage
 
+Goto file named .env and edit on this certain part
+
 ```php
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
